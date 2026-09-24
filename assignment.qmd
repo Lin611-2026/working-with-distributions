@@ -1,0 +1,15 @@
+---
+title: "Assignment"
+format: html
+editor: visual
+---
+
+Assign the result of `2+2` to a variable called `four`.
+
+```{r}
+four <- 2+2
+```
+
+```{r}
+runtests()
+```
