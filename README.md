@@ -1,2 +1,2 @@
-# assignment_template
-Assignment template
+# Working with distributions
+See [assignment.qmd](assignment.qmd)
